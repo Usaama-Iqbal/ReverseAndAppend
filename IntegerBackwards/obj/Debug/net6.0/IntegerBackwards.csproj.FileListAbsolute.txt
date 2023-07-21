@@ -1,0 +1,15 @@
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\bin\Debug\net6.0\IntegerBackwards.exe
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\bin\Debug\net6.0\IntegerBackwards.deps.json
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\bin\Debug\net6.0\IntegerBackwards.runtimeconfig.json
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\bin\Debug\net6.0\IntegerBackwards.dll
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\bin\Debug\net6.0\IntegerBackwards.pdb
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\obj\Debug\net6.0\IntegerBackwards.csproj.AssemblyReference.cache
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\obj\Debug\net6.0\IntegerBackwards.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\obj\Debug\net6.0\IntegerBackwards.AssemblyInfoInputs.cache
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\obj\Debug\net6.0\IntegerBackwards.AssemblyInfo.cs
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\obj\Debug\net6.0\IntegerBackwards.csproj.CoreCompileInputs.cache
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\obj\Debug\net6.0\IntegerBackwards.dll
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\obj\Debug\net6.0\refint\IntegerBackwards.dll
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\obj\Debug\net6.0\IntegerBackwards.pdb
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\obj\Debug\net6.0\IntegerBackwards.genruntimeconfig.cache
+E:\Project\LeetCode\IntegerBackwards\IntegerBackwards\obj\Debug\net6.0\ref\IntegerBackwards.dll
